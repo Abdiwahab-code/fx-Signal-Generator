@@ -11,7 +11,7 @@
     "serve": "^14.2.4"
   },
   "scripts": {
+    "build": "echo 'No build step needed'",
     "start": "serve -s ."
   }
 }
-
