@@ -1,13 +1,17 @@
 {
-  "name": "y",
-  "version": "y",
-  "description": "y",
-  "main": "y",
-  "repository": "y",
-  "author": "y",
-  "license": "y",
+  "name": "frontend-fx",
+  "version": "1.0.0",
+  "description": "Frontend for FX Signal Generator",
+  "main": "index.js",
+  "repository": "https://github.com/Abdiwahab-code/frontend-fx",
+  "author": "Abdiwahab",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "serve": "^14.2.4"
+  },
+  "scripts": {
+    "start": "serve -s ."
   }
 }
+
